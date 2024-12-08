@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">My name is 👨 Frank, a passionate developer and mathematician</h3>
+<h3 align="left">My name is 👨 Frank, a passionate developer and mathematician</h3>
 
 <p>I recently finished a 🎓PhD in Applied Math in the domains of Numerical Math and Differential Equations.
 
